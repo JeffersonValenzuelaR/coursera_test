@@ -38,7 +38,6 @@ h1 {
     width: 20%;
     text-align: center;
     padding: 5px;
-    background-color: blanchedalmond;
     border: 1px solid black;
     margin-bottom: 20px;
 }
@@ -55,7 +54,7 @@ h1 {
 
     .caja {    
         width: 30%;
-        height: 20%;
+        height: 30%;
     }
 
     #uno {
@@ -167,7 +166,7 @@ h1 {
     #c3{
         position: absolute; 
         left: 5%;
-        top: 35%;
+        top: 45%;
         width: 92%;
         margin-left: 0;
     }
@@ -214,7 +213,7 @@ h1 {
     #c3{
         position: absolute; 
         left: 5%;
-        top: 65%;
+        top: 70%;
         width: 92%;
     }
 }
