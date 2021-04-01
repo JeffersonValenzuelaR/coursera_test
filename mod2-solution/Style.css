@@ -50,7 +50,7 @@ h1 {
 
 /* Navegador */
 
-@media (min-width:1325px) {
+/* @media (min-width:1325px) {
 
     .caja {    
         width: 30%;
@@ -86,14 +86,14 @@ h1 {
         position: absolute;  
         left: 67%;
     }
-}
+} */
 
 /* Navegador 2 */
-@media (min-width:992px) and (max-width: 1324px){
+@media (min-width:992px) {
 
     .caja {    
         width: 30%;
-        height: 20%;
+        height: 40%;
     }
 
     #uno {
@@ -133,7 +133,7 @@ h1 {
 @media (min-width:768px) and (max-width: 991px) {
     .caja {    
         width: 45%;
-        height: 20%;
+        height: 35%;
     }
 
     #uno {
@@ -166,7 +166,7 @@ h1 {
     #c3{
         position: absolute; 
         left: 5%;
-        top: 45%;
+        top: 60%;
         width: 92%;
         margin-left: 0;
     }
@@ -179,7 +179,7 @@ h1 {
 
     .caja {    
         width: 45%;
-        height: 25%;
+        height: 35%;
     }
 
     #uno {
@@ -205,7 +205,7 @@ h1 {
     
     #c2{
         position: absolute;
-        top: 38.5%; 
+        top: 60.5%; 
         left: 5%;
         width: 92%;
      }
@@ -213,7 +213,7 @@ h1 {
     #c3{
         position: absolute; 
         left: 5%;
-        top: 70%;
+        top: 100%;
         width: 92%;
     }
 }
