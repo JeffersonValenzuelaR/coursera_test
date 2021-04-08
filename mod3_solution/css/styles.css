@@ -1,0 +1,66 @@
+body {
+  font-size: 16px;
+  color: black;
+  background-color: #fff;
+  font-family: monospace;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #557c3e;
+  border-radius: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: monospace;
+  color: #222;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: .75;
+}
+
+.Tittle {
+  text-align: center;
+  text-shadow: 1px 1px 1px #222;
+}
+
+.Context {
+  background-color: darkgray;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.Context h2{
+  text-align: center;
+  text-shadow: 1px 1px 1px #222;
+  padding-top: 20px;
+}
+
+.Context p{
+  padding: 20px; 
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #222;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+@media (min-width: 768px)  {
+  #nav-list a {
+    display: none;
+  }
+}
+  
